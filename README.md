@@ -11,8 +11,8 @@ this:
 
 # Contributing
 
-You will only need a running instance of RabbitMQ server and a fair amount of
-AMQP 0-9-1 knowledge to start hacking on Peanar.
+You will only need a running instance of [RabbitMQ server](https://www.rabbitmq.com) and a fair amount of
+[AMQP 0-9-1](https://www.rabbitmq.com/tutorials/amqp-concepts.html) knowledge to start hacking on Peanar.
 
 # TODO
 
